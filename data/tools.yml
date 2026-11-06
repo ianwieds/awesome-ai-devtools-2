@@ -2220,6 +2220,30 @@
   sources:
     - https://github.com/cline/prompts
     - https://www.reddit.com/r/CLine/comments/1kh8iwo/new_clinerules_library_github_repo_from_the_cline/
+- slug: cloudbrowser
+  name: Cloudbrowser
+  description: Hosted persistent Chrome browsers for AI agents, with isolated sessions, CDP access, desktop live view, and pause, resume, or paused-source fork controls.
+  website_url: https://cloudbrowser.tv/
+  categories:
+    - browser-agents
+  tags:
+    - agents
+    - api
+    - browser-agents
+    - browser-automation
+    - cloud
+  interfaces:
+    - api
+    - web
+  deployment: hosted
+  source_model: proprietary
+  license: not specified
+  curation_status: reviewed
+  added: 2026-11-06
+  last_checked: 2026-11-06
+  sources:
+    - https://cloudbrowser.tv/
+    - https://cloudbrowser.tv/pricing
 - slug: code-summarizer-action
   name: Code Summarizer Action
   description: GitHub Action that generates AI summaries of code changes or files and posts them as PR comments.
